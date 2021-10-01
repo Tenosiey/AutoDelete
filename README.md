@@ -8,7 +8,7 @@ Execute:
 `sudo crontab -e`
 
 Add this to the File:
-```@reboot sudo nohup python3 /bin/main.py &```
+```@reboot sudo nohup python3 /bin/AutoDelete/main.py &```
 
 Than restart the machine
 `sudo reboot`
